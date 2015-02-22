@@ -132,7 +132,7 @@ The tidy data ensures the following
 3. Each row contains one observation  
 4. Each column has a name
 
-The tidy (summarized) data is extacted to a "tidydataset.txt" files which is a (180 obs. * 81 variables) data frame.
+The tidy (summarized) data is extracted to a "tidydataset.txt" files which is a (180 obs. * 81 variables) data frame.
 
 
 
