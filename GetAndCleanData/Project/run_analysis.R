@@ -1,3 +1,6 @@
+## Load required library
+require(plyr)
+
 ## Read "Train" Data
 alltrainfiles=list.files("train",full.names=TRUE)
 ignoretraindata=alltrainfiles[1]  ## Ignore RAW Inertial Data
