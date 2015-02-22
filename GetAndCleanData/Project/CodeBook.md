@@ -1,9 +1,3 @@
----
-title: "CodeBook.md"
-author: "Gaurav Srivastava"
-date: "February 21, 2015"
----
-
 ## **Experimental design and background** 
 The experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities
 1. WALKING 
